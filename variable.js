@@ -42,8 +42,15 @@
 // console.log(colors[1]);
 // console.log(colors[2]);
 
-console.log(typeof "Ali");
-console.log(typeof 10);
-console.log(typeof false);
-console.log(typeof undefined);
-console.log(typeof null);
+// console.log(typeof "Ali");
+// console.log(typeof 10);
+// console.log(typeof false);
+// console.log(typeof undefined);
+// console.log(typeof null);
+
+// let name = "Babar Ali";
+// console.log(name);
+// console.log(name);
+// console.log(name);
+// console.log(name);
+// console.log(name);
