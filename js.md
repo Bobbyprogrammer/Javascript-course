@@ -84,3 +84,17 @@ Question 9
 Print multiples of 3 from 1 to 30.
 Question 10
 Print numbers from 1 to 100 that are divisible by 10.
+Intermediate Level
+Question 11 Find the sum of numbers from 1 to 10.
+Question 12
+Find the sum of numbers from 1 to 100.
+Question 13
+Find the sum of all even numbers from 1 to 100.
+Question 14
+Find the sum of all odd numbers from 1 to 100.
+Question 15
+Count how many even numbers are between 1 and 100.
+Question 16
+Count how many odd numbers are between 1 and 100.
+Question 17
+Print the multiplication table of 7.
