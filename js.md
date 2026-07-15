@@ -98,3 +98,61 @@ Question 16
 Count how many odd numbers are between 1 and 100.
 Question 17
 Print the multiplication table of 7.
+
+# ** Day 4 – Functions **#
+
+Topics to Cover
+What is a Function?
+Why Do We Need Functions?
+Function Declaration
+Function Parameters
+Function Arguments
+Return Keyword
+Function Expression
+Arrow Functions
+Scope (Global & Local)
+Practice Questions
+
+Topic 1: What is a Function?
+
+<!-- day 3 assignment Loops -->
+
+Question 1
+Create a function that prints:
+Hello World
+Question 2
+Create a function that prints your name.
+Question 3
+Create a function that prints your city.
+Question 4
+Create a function that prints numbers from 1 to 10.
+Question 5
+Create a function that prints even numbers from 1 to 20
+Question 9
+Create a function greet(name) that prints:
+Hello Ali
+Create a function student(name, age) that prints:
+Name: Ali
+Age: 22
+Question 11
+Create a function rectangle(length, width) that prints the area of a rectangle.
+Question 12
+Create a function square(num) that prints the square of a number.
+Question 13
+Create a function cube(num) that prints the cube of a number
+Create a function checkAge(age) that prints:
+Eligible to Vote
+Create a function that returns the sum of two numbers.
+Example:
+let result = add(10, 20);
+console.log(result);
+Question 22
+Create a function that returns the subtraction of two numbers.
+Question 23
+Create a function that returns the multiplication of two numbers.
+Question 25
+Create a function that returns the square of a number.
+Question 26
+Create a function that returns the cube of a number.
+Question 29
+Create a function that returns "Pass" if marks are 50 or above; otherwise return "Fail".
