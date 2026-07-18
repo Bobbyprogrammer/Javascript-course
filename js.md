@@ -156,3 +156,23 @@ Question 26
 Create a function that returns the cube of a number.
 Question 29
 Create a function that returns "Pass" if marks are 50 or above; otherwise return "Fail".
+
+<!-- arrow function  -->
+
+Create a function expression that prints "Hello World".
+
+Create a function expression that accepts a name and prints a greeting.
+
+Create a function expression that returns the sum of two numbers.
+Create a function expression that returns the larger of two numbers.
+Convert a normal addition function into an arrow function.
+Create an arrow function that returns the square of a number.
+Create an arrow function that checks whether a number is even or odd.
+Create an arrow function that returns "Eligible" when age is 18 or above.
+Create an arrow function that returns the multiplication of three numbers.
+Create a global variable and access it inside a function.
+Create a local variable and try accessing it outside the function.
+Create two functions with local variables using the same name.
+Create an arrow function that returns "Positive", "Negative", or "Zero".
+Create an arrow function that returns the largest of three numbers.
+Build calculator functions using function expressions and arrow functions.
