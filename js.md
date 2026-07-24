@@ -176,3 +176,21 @@ Create two functions with local variables using the same name.
 Create an arrow function that returns "Positive", "Negative", or "Zero".
 Create an arrow function that returns the largest of three numbers.
 Build calculator functions using function expressions and arrow functions.
+
+JavaScript Day 5 – Arrays
+Topics to Cover
+What is an Array?
+Why Do We Need Arrays?
+Creating Arrays
+Accessing Array Elements
+Updating Array Elements
+Array Length
+Looping Through Arrays
+Common Array Methods
+push()
+pop()
+shift()
+unshift()
+includes()
+indexOf()
+Practice Questions
