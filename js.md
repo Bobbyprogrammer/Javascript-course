@@ -178,6 +178,7 @@ Create an arrow function that returns the largest of three numbers.
 Build calculator functions using function expressions and arrow functions.
 
 JavaScript Day 5 – Arrays
+
 Topics to Cover
 What is an Array?
 Why Do We Need Arrays?
@@ -194,3 +195,22 @@ unshift()
 includes()
 indexOf()
 Practice Questions
+
+<!-- Homework -->
+
+Create an array called students.
+
+Add five student names.
+Print all student names.
+Print the first student.
+Print the last student.
+
+<!-- Change the third student's name. -->
+
+Add one student at the beginning.
+Add one student at the end.
+Remove the first student.
+Remove the last student.
+Check whether "Ali" exists in the array.
+Find the index of "Usman".
+Print the total number of students.
