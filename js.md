@@ -214,3 +214,41 @@ Remove the last student.
 Check whether "Ali" exists in the array.
 Find the index of "Usman".
 Print the total number of students.
+
+JavaScript Day 6 – Advanced Array Methods (Part 1)
+
+Topic 1: slice()
+Topic 2: splice()
+Topic 3: concat()
+
+Topic 4: Spread Operator (...)
+
+Topic 5: join()
+Topic 6: reverse()
+Topic 7: sort()
+
+<!-- Practice Questions -->
+
+slice()
+Create an array of 8 fruits and extract the first 3 fruits.
+Copy the entire array using slice().
+splice()
+Remove the second element.
+Remove the last two elements.
+Insert "Mango" at index 2.
+Replace "Banana" with "Pineapple".
+concat()
+Merge two arrays of numbers.
+Merge two arrays of student names.
+Spread Operator
+Copy an array using ....
+Merge three arrays.
+Add one element at the beginning and end using the spread operator.
+join()
+Convert an array into a comma-separated string.
+Join words into a sentence using spaces.
+reverse()
+Reverse an array of numbers.
+Reverse an array of names.
+sort()
+Sort an array of names alphabetically.
