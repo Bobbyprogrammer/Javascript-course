@@ -252,3 +252,21 @@ Reverse an array of numbers.
 Reverse an array of names.
 sort()
 Sort an array of names alphabetically.
+
+Homework Mini Project
+
+Create a Student Management System using arrays.
+
+Requirements:
+
+Create two arrays:
+Boys
+Girls
+Merge both arrays.
+Add a new student.
+Remove one student.
+Replace one student's name.
+Sort the student names alphabetically.
+Reverse the order.
+Convert the final array into a string using join(", ").
+Print the total number of students.
