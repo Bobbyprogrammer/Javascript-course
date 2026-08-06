@@ -270,3 +270,36 @@ Sort the student names alphabetically.
 Reverse the order.
 Convert the final array into a string using join(", ").
 Print the total number of students.
+
+JavaScript Day 7 – Higher Order Array Methods
+
+Topics
+forEach()
+find()
+findIndex()
+filter()
+map()
+reduce()
+some()
+every()
+
+Practice Foreach
+Print all student names.
+Print index and value.
+Print every number multiplied by 5.
+Print all cities in uppercase.
+Print each user's email.
+
+Practice Find
+Find first even number.
+Find first number greater than 100.
+Find student named Ali.
+Find product with id 5.
+Find first salary greater than 80,000.
+
+Practice filters
+Get all even numbers.
+Get all odd numbers.
+Get all students with marks above 80.
+Get all products cheaper than 500.
+Get all employees older than 30.
