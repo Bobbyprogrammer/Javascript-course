@@ -303,3 +303,17 @@ Get all odd numbers.
 Get all students with marks above 80.
 Get all products cheaper than 500.
 Get all employees older than 30.
+
+Practice Map method
+Double every number.
+Square every number.
+Convert all names to uppercase.
+Add "Mr." before every name.
+Extract only product names from an array of products.
+
+Difference So Far
+Method Returns
+forEach() Nothing
+find() First match
+filter() Matching array
+map() New transformed array
